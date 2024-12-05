@@ -127,7 +127,7 @@ Launch a multi-tenant, multi-store platform for your customers, resellers, affil
 
 <img alt="Spree Commerce - Multi-store" src="https://github.com/spree/spree/assets/12614496/cf651354-6180-4927-973f-c650b80ccdb0">
 
-## Community & Contributing
+## Community & Contributing random
 
 Spree is an open source project and we love contributions in any form - pull requests, issues, feature ideas!
 
