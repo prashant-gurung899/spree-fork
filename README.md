@@ -118,7 +118,7 @@ Run your own marketplace with multiple suppliers, each with a dedicated supplier
 Start capturing 6+ figure orders from resellers with safe payments and a checkout process that fits your business model
 <img alt="Spree Commerce - B2B eCommerce" src="https://github.com/spree/spree/assets/12614496/e0a184f6-31ad-4f7f-b30b-6f8a501b6f63">
 
-### Wholesale eCommerce
+### Wholesale eCommerce //random
 Run your wholesale operation the way your retail partners expect
 <img alt="Spree Commerce - Wholesale" src="https://github.com/spree/spree/assets/12614496/bac1e551-f629-47d6-a983-b385aa65b1bd">
 
